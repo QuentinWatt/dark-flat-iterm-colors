@@ -4,7 +4,7 @@
 
 ## Usage
 
-[Click this link and download the file] (https://github.com/QuentinWatt/dark-flat-iterm-colors/blob/master/flat-colors.itermcolors)
+[Click this link and download the file](https://github.com/QuentinWatt/dark-flat-iterm-colors/blob/master/flat-colors.itermcolors)
 
 Simply import the flat-colors.itermcolors file into your iterm profile color settings. 
 
