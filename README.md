@@ -1,4 +1,5 @@
 # Dark flat iterm2 color scheme
+# Test connection
 
 ![Flat dark colors](https://github.com/QuentinWatt/dark-flat-iterm-colors/blob/master/screenshots/main.png)
 
